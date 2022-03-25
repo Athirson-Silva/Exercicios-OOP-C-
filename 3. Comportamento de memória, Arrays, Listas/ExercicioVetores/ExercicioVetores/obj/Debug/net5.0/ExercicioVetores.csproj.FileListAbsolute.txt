@@ -1,0 +1,16 @@
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\bin\Debug\net5.0\ExercicioVetores.exe
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\bin\Debug\net5.0\ExercicioVetores.deps.json
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\bin\Debug\net5.0\ExercicioVetores.runtimeconfig.json
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\bin\Debug\net5.0\ExercicioVetores.runtimeconfig.dev.json
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\bin\Debug\net5.0\ExercicioVetores.dll
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\bin\Debug\net5.0\ref\ExercicioVetores.dll
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\bin\Debug\net5.0\ExercicioVetores.pdb
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.csproj.AssemblyReference.cache
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.AssemblyInfoInputs.cache
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.AssemblyInfo.cs
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.dll
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\obj\Debug\net5.0\ref\ExercicioVetores.dll
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.pdb
+C:\Users\athir\Desktop\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\ExercicioVetores\ExercicioVetores\obj\Debug\net5.0\ExercicioVetores.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\bin\Debug\net5.0\DesafioMatrizes.exe
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\bin\Debug\net5.0\DesafioMatrizes.deps.json
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\bin\Debug\net5.0\DesafioMatrizes.runtimeconfig.json
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\bin\Debug\net5.0\DesafioMatrizes.runtimeconfig.dev.json
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\bin\Debug\net5.0\DesafioMatrizes.dll
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\bin\Debug\net5.0\ref\DesafioMatrizes.dll
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\bin\Debug\net5.0\DesafioMatrizes.pdb
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\obj\Debug\net5.0\DesafioMatrizes.csproj.AssemblyReference.cache
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\obj\Debug\net5.0\DesafioMatrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\obj\Debug\net5.0\DesafioMatrizes.AssemblyInfoInputs.cache
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\obj\Debug\net5.0\DesafioMatrizes.AssemblyInfo.cs
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\obj\Debug\net5.0\DesafioMatrizes.csproj.CoreCompileInputs.cache
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\obj\Debug\net5.0\DesafioMatrizes.dll
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\obj\Debug\net5.0\ref\DesafioMatrizes.dll
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\obj\Debug\net5.0\DesafioMatrizes.pdb
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\3. Comportamento de memória, Arrays, Listas\Exercícios\DesafioMatrizes\DesafioMatrizes\obj\Debug\net5.0\DesafioMatrizes.genruntimeconfig.cache

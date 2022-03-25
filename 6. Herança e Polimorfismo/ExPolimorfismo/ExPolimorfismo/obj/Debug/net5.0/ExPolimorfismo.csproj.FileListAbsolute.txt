@@ -1,0 +1,16 @@
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\bin\Debug\net5.0\ExPolimorfismo.exe
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\bin\Debug\net5.0\ExPolimorfismo.deps.json
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\bin\Debug\net5.0\ExPolimorfismo.runtimeconfig.json
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\bin\Debug\net5.0\ExPolimorfismo.runtimeconfig.dev.json
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\bin\Debug\net5.0\ExPolimorfismo.dll
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\bin\Debug\net5.0\ref\ExPolimorfismo.dll
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\bin\Debug\net5.0\ExPolimorfismo.pdb
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.csproj.AssemblyReference.cache
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.AssemblyInfo.cs
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.dll
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\obj\Debug\net5.0\ref\ExPolimorfismo.dll
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.pdb
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExPolimorfismo\ExPolimorfismo\obj\Debug\net5.0\ExPolimorfismo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\bin\Debug\net5.0\ExAbstratos.exe
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\bin\Debug\net5.0\ExAbstratos.deps.json
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\bin\Debug\net5.0\ExAbstratos.runtimeconfig.json
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\bin\Debug\net5.0\ExAbstratos.runtimeconfig.dev.json
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\bin\Debug\net5.0\ExAbstratos.dll
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\bin\Debug\net5.0\ref\ExAbstratos.dll
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\bin\Debug\net5.0\ExAbstratos.pdb
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\obj\Debug\net5.0\ExAbstratos.csproj.AssemblyReference.cache
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\obj\Debug\net5.0\ExAbstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\obj\Debug\net5.0\ExAbstratos.AssemblyInfoInputs.cache
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\obj\Debug\net5.0\ExAbstratos.AssemblyInfo.cs
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\obj\Debug\net5.0\ExAbstratos.csproj.CoreCompileInputs.cache
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\obj\Debug\net5.0\ExAbstratos.dll
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\obj\Debug\net5.0\ref\ExAbstratos.dll
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\obj\Debug\net5.0\ExAbstratos.pdb
+C:\Users\athir\Desktop\Cursos\Curso C# OOP\6. Herança e Polimorfismo\Exercícios\ExAbstratos\ExAbstratos\obj\Debug\net5.0\ExAbstratos.genruntimeconfig.cache
